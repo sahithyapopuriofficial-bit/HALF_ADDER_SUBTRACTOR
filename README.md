@@ -20,7 +20,6 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
-Figure -01 HALF ADDER
 
 **Half Subtractor**
 
@@ -31,9 +30,16 @@ Borrow = A’B
 
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
-Figure -02 HALF Subtractor
 
 **Truthtable**
+
+## HALF ADDER
+
+<img width="752" height="390" alt="{EB432CC3-E799-43AF-914F-1E5C2142B523}" src="https://github.com/user-attachments/assets/38536d05-909f-408c-aaa1-000d7e94bd63" />
+
+## HALF SUBTRACTOR
+
+<img width="418" height="217" alt="{ABBA83E3-75D2-434F-B73F-5D031967B5CF}" src="https://github.com/user-attachments/assets/55a3e96f-51f7-4983-9719-562b3e112893" />
 
 **Procedure**
 
@@ -50,12 +56,38 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+ Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: POPURI SAHITHYA RegisterNumber: 25004681
+
+## HALF ADDER
+
+<img width="397" height="173" alt="{549F18F1-8231-4927-BC4A-F6D71D1B4B54}" src="https://github.com/user-attachments/assets/6d162f77-130e-4ee8-807d-fdda8a15f934" />
+
+## HALF SUBTRACTOR
+
+<img width="428" height="137" alt="{9A3796FF-42C8-403F-9D88-3B1B677D7386}" src="https://github.com/user-attachments/assets/d1b5e4d1-87fe-4085-8c55-d62e63870d34" />
+
 
 **RTL Schematic**
 
-**Output/TIMING Waveform**
+## HALF ADDER
+
+<img width="986" height="435" alt="{337911B4-C810-416E-9B65-AAAB3463072A}" src="https://github.com/user-attachments/assets/87d5a0ec-fec3-418d-abe0-4d6da0376927" />
+
+## HALF SUBTRACTOR
+
+<img width="989" height="396" alt="{DAD24B4B-8F70-4727-B4E8-EA7E4E56BA61}" src="https://github.com/user-attachments/assets/35bb46b8-1e58-420e-9cb5-e0d41a437fcd" />
+
+**Output/TIMING Waveform:**
+
+## HALF ADDER
+
+<img width="1004" height="118" alt="{8F81400D-D432-4A7A-91A5-AB338566EBDF}" src="https://github.com/user-attachments/assets/33dafcc9-a55f-418f-a3e4-806ab8776a18" />
+
+## HALF SUBTRACTOR
+
+<img width="1002" height="121" alt="{CB0B6972-D3A0-4966-8CDA-C68CD16FACD9}" src="https://github.com/user-attachments/assets/6ed7908d-f523-4578-824c-0d47e072546c" />
 
 **Result:**
+Thus the half adder and half subtractor circuits are designed and the truth tables is verified using quartus software.
